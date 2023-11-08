@@ -1,0 +1,1 @@
+# didar-wp-register
